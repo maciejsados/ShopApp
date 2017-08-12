@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "C:\\Users\\Maciej\\Desktop\\03-SaveToDoTasksStorage\\StoreApplication\\app\\build\\intermediates\\res\\merged\\debug\\menu\\drawer_menu.xml",
+        "source": "C:\\Users\\Maciej\\Desktop\\03-SaveToDoTasksStorage\\StoreApplication\\app\\src\\main\\res\\menu\\drawer_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\Maciej\\Desktop\\03-SaveToDoTasksStorage\\StoreApplication\\app\\build\\intermediates\\res\\merged\\debug\\menu\\second_activity_menu.xml",
+        "source": "C:\\Users\\Maciej\\Desktop\\03-SaveToDoTasksStorage\\StoreApplication\\app\\src\\main\\res\\menu\\second_activity_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\Maciej\\Desktop\\03-SaveToDoTasksStorage\\StoreApplication\\app\\build\\intermediates\\res\\merged\\debug\\menu\\my_cart_menu.xml",
+        "source": "C:\\Users\\Maciej\\Desktop\\03-SaveToDoTasksStorage\\StoreApplication\\app\\src\\main\\res\\menu\\my_cart_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\Maciej\\Desktop\\03-SaveToDoTasksStorage\\StoreApplication\\app\\build\\intermediates\\res\\merged\\debug\\menu\\register_menu.xml",
+        "source": "C:\\Users\\Maciej\\Desktop\\03-SaveToDoTasksStorage\\StoreApplication\\app\\src\\main\\res\\menu\\register_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\Maciej\\Desktop\\03-SaveToDoTasksStorage\\StoreApplication\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu.xml",
+        "source": "C:\\Users\\Maciej\\Desktop\\03-SaveToDoTasksStorage\\StoreApplication\\app\\src\\main\\res\\menu\\menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\Maciej\\Desktop\\03-SaveToDoTasksStorage\\StoreApplication\\app\\build\\intermediates\\res\\merged\\debug\\menu\\fruits_menu.xml",
+        "source": "C:\\Users\\Maciej\\Desktop\\03-SaveToDoTasksStorage\\StoreApplication\\app\\src\\main\\res\\menu\\fruits_menu.xml"
+    }
+]

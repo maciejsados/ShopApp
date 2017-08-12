@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <group android:checkableBehavior="single">
+
+
+        <item
+            android:id="@+id/navigation_subheader"
+            android:title="MENU">
+            <menu>
+                <item
+                    android:id="@+id/home"
+                    android:checked="false"
+                    android:icon="@drawable/ic_remove_circle_outline_black_24dp"
+                    android:title="HOME"/>
+                <item
+                    android:id="@+id/mycart"
+                    android:icon="@drawable/ic_remove_circle_outline_black_24dp"
+                    android:checked="true"
+                    android:title="MY CART" />
+                <item
+                    android:id="@+id/about"
+                    android:icon="@drawable/ic_remove_circle_outline_black_24dp"
+                    android:title="ABOUT US" />
+                <item
+                    android:id="@+id/login"
+                    android:icon="@drawable/ic_remove_circle_outline_black_24dp"
+                    android:title="LOGIN" />
+                <item
+                    android:id="@+id/register"
+                    android:icon="@drawable/ic_remove_circle_outline_black_24dp"
+                    android:title="REGISTER" />
+            </menu>
+        </item>
+    </group>
+</menu>

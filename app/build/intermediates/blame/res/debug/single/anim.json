@@ -1,0 +1,70 @@
+[
+    {
+        "merged": "C:\\Users\\Maciej\\Desktop\\03-SaveToDoTasksStorage\\StoreApplication\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_exit.xml",
+        "source": "C:\\Users\\Maciej\\.android\\build-cache\\3064f697ccf9a8a4770d7fc17b02b20ef06d4633\\output\\res\\anim\\abc_popup_exit.xml"
+    },
+    {
+        "merged": "C:\\Users\\Maciej\\Desktop\\03-SaveToDoTasksStorage\\StoreApplication\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_bottom.xml",
+        "source": "C:\\Users\\Maciej\\.android\\build-cache\\3064f697ccf9a8a4770d7fc17b02b20ef06d4633\\output\\res\\anim\\abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "C:\\Users\\Maciej\\Desktop\\03-SaveToDoTasksStorage\\StoreApplication\\app\\build\\intermediates\\res\\merged\\debug\\anim\\animation.xml",
+        "source": "C:\\Users\\Maciej\\Desktop\\03-SaveToDoTasksStorage\\StoreApplication\\app\\src\\main\\res\\anim\\animation.xml"
+    },
+    {
+        "merged": "C:\\Users\\Maciej\\Desktop\\03-SaveToDoTasksStorage\\StoreApplication\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_bottom_sheet_slide_out.xml",
+        "source": "C:\\Users\\Maciej\\.android\\build-cache\\6ad6e10b75211e05e9505717bea592b5a363bc96\\output\\res\\anim\\design_bottom_sheet_slide_out.xml"
+    },
+    {
+        "merged": "C:\\Users\\Maciej\\Desktop\\03-SaveToDoTasksStorage\\StoreApplication\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_bottom_sheet_slide_in.xml",
+        "source": "C:\\Users\\Maciej\\.android\\build-cache\\6ad6e10b75211e05e9505717bea592b5a363bc96\\output\\res\\anim\\design_bottom_sheet_slide_in.xml"
+    },
+    {
+        "merged": "C:\\Users\\Maciej\\Desktop\\03-SaveToDoTasksStorage\\StoreApplication\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_shrink_fade_out_from_bottom.xml",
+        "source": "C:\\Users\\Maciej\\.android\\build-cache\\3064f697ccf9a8a4770d7fc17b02b20ef06d4633\\output\\res\\anim\\abc_shrink_fade_out_from_bottom.xml"
+    },
+    {
+        "merged": "C:\\Users\\Maciej\\Desktop\\03-SaveToDoTasksStorage\\StoreApplication\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_snackbar_out.xml",
+        "source": "C:\\Users\\Maciej\\.android\\build-cache\\6ad6e10b75211e05e9505717bea592b5a363bc96\\output\\res\\anim\\design_snackbar_out.xml"
+    },
+    {
+        "merged": "C:\\Users\\Maciej\\Desktop\\03-SaveToDoTasksStorage\\StoreApplication\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_bottom.xml",
+        "source": "C:\\Users\\Maciej\\.android\\build-cache\\3064f697ccf9a8a4770d7fc17b02b20ef06d4633\\output\\res\\anim\\abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "C:\\Users\\Maciej\\Desktop\\03-SaveToDoTasksStorage\\StoreApplication\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_top.xml",
+        "source": "C:\\Users\\Maciej\\.android\\build-cache\\3064f697ccf9a8a4770d7fc17b02b20ef06d4633\\output\\res\\anim\\abc_slide_out_top.xml"
+    },
+    {
+        "merged": "C:\\Users\\Maciej\\Desktop\\03-SaveToDoTasksStorage\\StoreApplication\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_out.xml",
+        "source": "C:\\Users\\Maciej\\.android\\build-cache\\3064f697ccf9a8a4770d7fc17b02b20ef06d4633\\output\\res\\anim\\abc_fade_out.xml"
+    },
+    {
+        "merged": "C:\\Users\\Maciej\\Desktop\\03-SaveToDoTasksStorage\\StoreApplication\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_enter.xml",
+        "source": "C:\\Users\\Maciej\\.android\\build-cache\\3064f697ccf9a8a4770d7fc17b02b20ef06d4633\\output\\res\\anim\\abc_popup_enter.xml"
+    },
+    {
+        "merged": "C:\\Users\\Maciej\\Desktop\\03-SaveToDoTasksStorage\\StoreApplication\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_snackbar_in.xml",
+        "source": "C:\\Users\\Maciej\\.android\\build-cache\\6ad6e10b75211e05e9505717bea592b5a363bc96\\output\\res\\anim\\design_snackbar_in.xml"
+    },
+    {
+        "merged": "C:\\Users\\Maciej\\Desktop\\03-SaveToDoTasksStorage\\StoreApplication\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_in.xml",
+        "source": "C:\\Users\\Maciej\\.android\\build-cache\\3064f697ccf9a8a4770d7fc17b02b20ef06d4633\\output\\res\\anim\\abc_fade_in.xml"
+    },
+    {
+        "merged": "C:\\Users\\Maciej\\Desktop\\03-SaveToDoTasksStorage\\StoreApplication\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_top.xml",
+        "source": "C:\\Users\\Maciej\\.android\\build-cache\\3064f697ccf9a8a4770d7fc17b02b20ef06d4633\\output\\res\\anim\\abc_slide_in_top.xml"
+    },
+    {
+        "merged": "C:\\Users\\Maciej\\Desktop\\03-SaveToDoTasksStorage\\StoreApplication\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_grow_fade_in_from_bottom.xml",
+        "source": "C:\\Users\\Maciej\\.android\\build-cache\\3064f697ccf9a8a4770d7fc17b02b20ef06d4633\\output\\res\\anim\\abc_grow_fade_in_from_bottom.xml"
+    },
+    {
+        "merged": "C:\\Users\\Maciej\\Desktop\\03-SaveToDoTasksStorage\\StoreApplication\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_fab_out.xml",
+        "source": "C:\\Users\\Maciej\\.android\\build-cache\\6ad6e10b75211e05e9505717bea592b5a363bc96\\output\\res\\anim\\design_fab_out.xml"
+    },
+    {
+        "merged": "C:\\Users\\Maciej\\Desktop\\03-SaveToDoTasksStorage\\StoreApplication\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_fab_in.xml",
+        "source": "C:\\Users\\Maciej\\.android\\build-cache\\6ad6e10b75211e05e9505717bea592b5a363bc96\\output\\res\\anim\\design_fab_in.xml"
+    }
+]

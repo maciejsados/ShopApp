@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "C:\\Users\\Maciej\\Desktop\\03-SaveToDoTasksStorage\\StoreApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_add_circle_outline_black_24dp.png",
+        "source": "C:\\Users\\Maciej\\Desktop\\03-SaveToDoTasksStorage\\StoreApplication\\app\\src\\main\\res\\drawable-xhdpi\\ic_add_circle_outline_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Maciej\\Desktop\\03-SaveToDoTasksStorage\\StoreApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_visibility_black_24dp.png",
+        "source": "C:\\Users\\Maciej\\Desktop\\03-SaveToDoTasksStorage\\StoreApplication\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_visibility_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Maciej\\Desktop\\03-SaveToDoTasksStorage\\StoreApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_delete_black_24dp.png",
+        "source": "C:\\Users\\Maciej\\Desktop\\03-SaveToDoTasksStorage\\StoreApplication\\app\\src\\main\\res\\drawable-xhdpi\\ic_delete_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Maciej\\Desktop\\03-SaveToDoTasksStorage\\StoreApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_add_shopping_cart_black_24dp.png",
+        "source": "C:\\Users\\Maciej\\Desktop\\03-SaveToDoTasksStorage\\StoreApplication\\app\\src\\main\\res\\drawable-xhdpi\\ic_add_shopping_cart_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Maciej\\Desktop\\03-SaveToDoTasksStorage\\StoreApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_done_black_24dp.png",
+        "source": "C:\\Users\\Maciej\\Desktop\\03-SaveToDoTasksStorage\\StoreApplication\\app\\src\\main\\res\\drawable-xhdpi\\ic_done_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Maciej\\Desktop\\03-SaveToDoTasksStorage\\StoreApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_arrow_back_black_24dp.png",
+        "source": "C:\\Users\\Maciej\\Desktop\\03-SaveToDoTasksStorage\\StoreApplication\\app\\src\\main\\res\\drawable-xhdpi\\ic_arrow_back_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Maciej\\Desktop\\03-SaveToDoTasksStorage\\StoreApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_remove_circle_outline_black_24dp.png",
+        "source": "C:\\Users\\Maciej\\Desktop\\03-SaveToDoTasksStorage\\StoreApplication\\app\\src\\main\\res\\drawable-xhdpi\\ic_remove_circle_outline_black_24dp.png"
+    }
+]
